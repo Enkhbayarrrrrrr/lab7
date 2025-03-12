@@ -1,0 +1,9 @@
+a=float(input())
+b=float(input())
+c=float(input())
+f=float(input())
+a1=a*5.80
+b1=b*7.20
+c1=c*1.20
+s=a1+b1+c1 
+print(s-s/100*f)
